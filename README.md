@@ -1,3 +1,6 @@
+[![Release](https://github.com/brianpursley/gsdownload/actions/workflows/release.yml/badge.svg)](https://github.com/brianpursley/gsdownload/actions/workflows/release.yml)  
+[![Pre Release](https://github.com/brianpursley/gsdownload/actions/workflows/pre-release.yml/badge.svg)](https://github.com/brianpursley/gsdownload/actions/workflows/pre-release.yml)
+
 # gsdownload
 
 gsdownload is a utility for bulk downloading multiple objects from a Google Cloud Storage bucket.
